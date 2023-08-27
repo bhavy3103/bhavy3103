@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Bhavy Devani</h1>
-<h3 align="center">Frontend Developer making the web more colorful✨</h3>
+<h3 align="center">🌟Frontend Developer making the web more colorful✨</h3>
 
 <img align="right" alt="Codin<g" width="400" src="https://www.techrepublic.com/wp-content/uploads/2022/07/top-ide-software-770x433.jpeg">
 
