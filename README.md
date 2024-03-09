@@ -1,13 +1,11 @@
 <h1 align="center">Hi 👋, I'm Bhavy Devani</h1>
-<h3 align="center">🌟Frontend Developer making the web more colorful✨</h3>
-
-<img align="right" alt="Codin<g" width="400" src="https://www.techrepublic.com/wp-content/uploads/2022/07/top-ide-software-770x433.jpeg">
+<h3 align="center">🌟Full-Stack Developer✨</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bhavy3103&label=Profile%20views&color=0e75b6&style=flat" alt="bhavy3103" /> </p>
 
 <p align="left"> <a href="https://twitter.com/bhavydevani" target="blank"><img src="https://img.shields.io/twitter/follow/bhavydevani?logo=twitter&style=for-the-badge" alt="bhavydevani" /></a> </p>
 
-- 🌱 I’m currently learning **Backend Development**
+- 🌱 I’m currently learning **Cloud Computing**
 
 - 📫 How to reach me **bhavypdevani31@gmail.com**
 
